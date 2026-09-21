@@ -126,8 +126,8 @@ online-food-delivery-platform/
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/<your-username>/<your-repo-name>.git
-   cd <your-repo-name>
+   git clone https://github.com/Yagnik75/Online_Food_Delivery_App.git
+   cd Online_Food_Delivery_App
    ```
 
 2. **Set up the backend**
